@@ -3,6 +3,7 @@
 Are You storing more or less sensitive strings like API keys directly in the application code? For exaple like this:
 
 ![String stored in app](/github/string_in_app.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanil291987%2FSwift-String-Obfuscator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanil291987%2FSwift-String-Obfuscator?ref=badge_shield)
 
 
 Do You know that's relatively easy for anyone to disassemble the application and get these strings?
@@ -130,3 +131,7 @@ Obfuscated output:
     }
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanil291987%2FSwift-String-Obfuscator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanil291987%2FSwift-String-Obfuscator?ref=badge_large)
